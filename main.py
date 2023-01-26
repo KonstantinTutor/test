@@ -5,3 +5,5 @@
 print('hello')
 
 print('Added in another')
+
+print('Меня создали на GitHub')
